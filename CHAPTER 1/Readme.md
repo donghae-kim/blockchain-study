@@ -72,7 +72,7 @@
 
 ## **비트코인 주소**
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/26f76037-bd0e-4554-9af3-2d01bb3b3a09/image1.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/26f76037-bd0e-4554-9af3-2d01bb3b3a09/image1.png)
+[![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/26f76037-bd0e-4554-9af3-2d01bb3b3a09/image1.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/26f76037-bd0e-4554-9af3-2d01bb3b3a09/image1.png)](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/26f76037-bd0e-4554-9af3-2d01bb3b3a09/image1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220526%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220526T085441Z&X-Amz-Expires=86400&X-Amz-Signature=ea5e067bc3863166f445c03967f7c27933a4e81ad098f01c21a33bc91f6ce6d3&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22image1.png%22&x-id=GetObject)
 
 다음 그림은 앨리스가 ‘마이셀리움’모바일 지갑을 켰을 때의 화면이다. 이 화면에서 가장 중요한 부분은 앨리스의 비트코인 주소이다. 화면에서 ‘1Cdid9KFAaatwczBwBttQcwXYCpvK8h7FK’라는 문자와 숫자가 결합된 비트코인 주소가 나타난다. 지갑 속 비트코인 주소 옆에 있는 것은 QR코드로, 비트코인 주소 대신 사용 가능하다. 비트코인 주소는 숫자 1이나 3으로 시작한다. 보안의 측면에서 비트코인 주소에 대해 민감한 사항은 없다. 비트코인 주소를 어느 곳에나 게시해도 계좌의 보안이 위협받지 않는다. 이메일과의 차이점은 원하는 만큼 새 주소를 만들 수 있고, 생성된 모든 비트코인 주소로 돈을 송금 받을 수 있다는 것이다. 지갑 속에는 비트코인 주소와 보유 자금을 송금할 수 있는 키가 있다. 비트코인 주소는 키에 대응하는 숫자로 특정 서비스 참조나 등록과는 별개로 생성되기 때문에 외부에서 인식 가능한 정보 사이에 어떠한 연관성도 없다. 하지만 거래와 연관이 되고 나면 비트코인 주소는 네트워크 상에서 알려진 주소가 된다.
 
@@ -85,7 +85,7 @@
 
 비트코인 주소 입력창에 QR코드처럼 생긴 작은 아이콘이 있다. QR코드 아이콘을 터치해서 카메라로 앨리스의 QR코드를 찍으면 비트코인 주소를 직접 입력할 필요 없이 수신처가 앨리스로 설정된다.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/78cb1fc4-97d8-4f43-8155-8834dc74e7e3/image2.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/78cb1fc4-97d8-4f43-8155-8834dc74e7e3/image2.png)
+[![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/78cb1fc4-97d8-4f43-8155-8834dc74e7e3/image2.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/78cb1fc4-97d8-4f43-8155-8834dc74e7e3/image2.png)](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/78cb1fc4-97d8-4f43-8155-8834dc74e7e3/image2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220526%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220526T085700Z&X-Amz-Expires=86400&X-Amz-Signature=337e225d8d14ab7b0975d525d059532ada9f88337edcdce0b70070ee64abfc8f&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22image2.png%22&x-id=GetObject)
 
 금액으로 10달러를 입력하면 그의 지갑에서 온라인 서비스를 통해 가장 최근의 환율에 따라 금액을 변환한다. 그 당시 환율은 1비트코인당 100달러였기 때문에 10달러는 0.1BTC 혹은 100mBTC가 된다.
 

@@ -43,6 +43,7 @@ https://s3.us-west-2.amazonaws.com/secure.notion-static.com/cda56064-4be4-492f-8
 ## 타원곡선 암호학
 
 https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d13ff932-001b-4f40-811e-2d109d55d509/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220527%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220527T052241Z&X-Amz-Expires=86400&X-Amz-Signature=24e425e2facb10cfcb7f3cfe3f563a47cee701f2701f558715e26032c65b50e1&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject
+
 위 그림은 타원곡선 함수 예시입니다.
 
 타원곡선 그래프 상에 생성포인트상수 G(ex p1)를 포함한 접선을  그어 G가 아닌 타원곡선 그래프 상에 접점(ex p2)을 구한뒤 x축 대칭(ex p3)을 시키는 과정을 반복하여 K(식으로부터 나오는 공개키)를 구하는 것입니다.
@@ -56,6 +57,7 @@ https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d13ff932-001b-4f40-8
 이는 돈을 수령할 수 있는 대상이라고 보면 될것입니다.
 
 https://s3.us-west-2.amazonaws.com/secure.notion-static.com/73a389b2-721e-4061-ab69-fd393a63e7f9/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220527%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220527T052226Z&X-Amz-Expires=86400&X-Amz-Signature=cb0b851efa31946f363a4a526f4c4b99a509f509c6142443d0ff9f5caa1fd8eb&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject  
+
 위의 그림은 공개키로부터 주소를 만들어내는 그림입니다.
 
 비트코인 주소를 공개키로 부터 생성할 때는 일방 암호화 해싱을 사용합니다. 
@@ -72,6 +74,7 @@ Base58이란 소문자 26개와 대문자 26개, 숫자 10개(0~9), '+'와 '/' �
 
  
 https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7a4903df-e3ff-4220-9a6b-9783f40bef75/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220527%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220527T052201Z&X-Amz-Expires=86400&X-Amz-Signature=3b65cf3071a48da422ced92b6883f1d7644f4b6db5fd4f464366a5a73847a4f5&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject
+
 위 사진은 base58인코딩을 자세하게 나타낸 것입니다.
 
 데이터(숫자)를 Base58 포맷으로 전환하기 위해서는 데이터에 버전 바이트라고 불리는 접두부를 붙여야합니다. 이는 인코딩된 데이터 유형을 쉽게 찾아볼 수 있게 합니다.
@@ -184,4 +187,5 @@ BIP38은 개인키를 안전하게 백업 매체에 저장하고 노출될 어�
 ## 종이 지갑
 
 종이 지갑은 비트코인 개인키를 종이에 인쇄한 것입니다. 이 외에도 html,외부 usb플래시드라이브의 html 등이 종이지갑이라고 할 수 있습니다. 이로써 온라인 체제에 저장되지 않고 종이위에만 존재하는 종이지갑을 생성할 수 있습니다.
+
 https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1f901068-5390-4d63-b4cf-2d304ec4013e/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220527%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220527T052114Z&X-Amz-Expires=86400&X-Amz-Signature=356dc79a93a3fd6173611909a9860da476ff46e5fa40e02ad4e628b8e19c596c&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject
